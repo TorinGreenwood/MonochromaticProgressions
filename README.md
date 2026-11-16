@@ -21,3 +21,5 @@ Companion code for the paper, "Exploring antisymmetry while minimizing monochrom
   * Bin categorizations for all local optima in each simulation
 
 * kStarAllRegimeSimulations is Python code including the same contents as kStarAdjacentRegimeSimulations but for the all regime.
+
+* NotationSummary is a reference page of notation in the corresponding extended abstract.
